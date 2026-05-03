@@ -35,7 +35,7 @@ Each file maps `function_name -> record`.
     "url": "https://manual.gamemaker.io/.../function.htm" | null,
     "peer_reviewed": true | false | null,
 
-    "is_deprecated": true | false,
+    "is_deprecated": true | false, null
     "is_safe": true | false | null,
     "is_sandboxed": true | false | null,
 
